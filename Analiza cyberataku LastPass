@@ -1,4 +1,40 @@
-1. Nazwa incydentu
+Nazwa incydentu:
 LastPass
 
-2. Data ujawnienia
+Data ujawnienia cyberataku
+22 grudzień 2022
+
+
+
+Incydent 1
+1. Tożsamość sprawcy
+nieznana
+
+2. Wektor wejścia
+Incydent 1: Naruszony został laptop inżyniera oprogramowania, co umożliwiło uzyskanie dostępu do środowiska programistycznego w chmurze, kradzież kodu źródłowego, informacji technicznych i systemowych.
+Incydent 2: Naruszony został laptop starszego inżyniera DevOps
+
+3. Czas trwania incydentu
+8-12 sierpnia 2022
+
+
+4. Naruszone elementy triady CIA:
+Confidentiality - poufność (dostęp tylko dla uprawnionych): adwersarz uzyskał dostęp do repozytoriów oprogramowania i kodu źródłowego w chmurze. Sprawca ukradł wewnętrzne skrypty z repozytoriów oraz informacje 
+techniczne opisujące sposób działania środowiska programistycznego. 
+
+Integrity - integralność danych: nie została naruszona
+
+Availability - dostępność: nie została naruszona
+
+5. Cel atakującego
+Przygotowanie się do drugiego incydentu
+
+6. Mapowanie ataku w Cyber Kill Chain:
+Reconnaissance (Rozpoznanie - zbieranie informacji o celu): przygotowanie do drugiego ataku
+
+Weaponization (Przygotowanie narzędzi ataku): atakujący wykorzystał lukę w zabezpieczeniach oprogramowania firm trzecich w pierwszym incydencie. W drugim incydencie wykorzystał podatny na ataki system i dostarczył
+złośliwe oprogramowanie. 
+
+Delivery (dostarczenie - phishing, załącznik, USB):
+
+Exploitation:
