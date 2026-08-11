@@ -43,9 +43,13 @@ Installation (Instalacja- zdobycie trwałego dostępu): wymieniono skradzione is
 
 Command & Control (Zdalne sterowanie): nie wykryto żadnej działalności, która wskazywałaby na wykorzystanie skrawdzionych danych. Nie wykryty sprzedaży skrawdzionych informacji. 
 
-Actions on Objectiver (Realizacja celu - kradzież, szyfrowanie, sabotaż): adwersarz nie przejął kontroli nad systemami produkcyjnymi. Ukradł dane, ale nie sprzedał ich. Adwersarz nie zmienił dancyh. 
+Actions on Objectiver (Realizacja celu - kradzież, szyfrowanie, sabotaż): adwersarz nie przejął kontroli nad systemami produkcyjnymi. Ukradł dane, ale nie sprzedał ich. Adwersarz nie zmienił dancyh.
+
+W ataku 1 skradziono: dostęp do repozytoriów oprogramowania i kodu źródłoweog w chmurze; sekrety i certyfikaty LastPass; informacje techniczne opisujące spodób działąnia środowiska programistycznego
+W ataku 2 skrawdziono: zastrzeżone sekrety, które umożliwiły uzyskanie dostępu do magazynu kopii zapasowych w chmurze (dane konfiguracyjne, sekrety API, sekrety integracji stron trzecic, 
+metadane oraz kopie zapasowe danych w sejfie klienta, częśc danych w sejfie klienta); kopia zapasowa basy danych LastPass MFA/Federation;  
 
 
 7. Techniki ataku w MITRE ATTA&CK
-
+Nie wiem jak użyć macierzy do analizy ataku. Szukam przykładów. Nie mam pojęcia jak to zrobić. 
 
