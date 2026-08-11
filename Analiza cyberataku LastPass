@@ -29,12 +29,23 @@ Availability - dostępność: nie została naruszona
 5. Cel atakującego
 Przygotowanie się do drugiego incydentu
 
+
 6. Mapowanie ataku w Cyber Kill Chain:
 Reconnaissance (Rozpoznanie - zbieranie informacji o celu): przygotowanie do drugiego ataku
 
-Weaponization (Przygotowanie narzędzi ataku): atakujący wykorzystał lukę w zabezpieczeniach oprogramowania firm trzecich w pierwszym incydencie. W drugim incydencie wykorzystał podatny na ataki system i dostarczył
-złośliwe oprogramowanie. 
+Weaponization (Przygotowanie narzędzi ataku): atakujący wykorzystał lukę w zabezpieczeniach oprogramowania firm trzecich w pierwszym incydencie. 
 
-Delivery (dostarczenie - phishing, załącznik, USB):
+Delivery (dostarczenie - phishing, załącznik, USB): dostarczenie złośliwego oprogramowania
 
-Exploitation:
+Exploitation (wykorzystanie podatności): adwersarz wykorzystał podatny na ataki system innych firm, ominął istniejące zabezpieczenia
+
+Installation (Instalacja- zdobycie trwałego dostępu): wymieniono skradzione istone sekrety i certyfikaty, aby sprawca nie miał trwałego dostępu. Zbudowano również nowe środowisko programistyczne. 
+
+Command & Control (Zdalne sterowanie): nie wykryto żadnej działalności, która wskazywałaby na wykorzystanie skrawdzionych danych. Nie wykryty sprzedaży skrawdzionych informacji. 
+
+Actions on Objectiver (Realizacja celu - kradzież, szyfrowanie, sabotaż): adwersarz nie przejął kontroli nad systemami produkcyjnymi. Ukradł dane, ale nie sprzedał ich. Adwersarz nie zmienił dancyh. 
+
+
+7. Techniki ataku w MITRE ATTA&CK
+
+
